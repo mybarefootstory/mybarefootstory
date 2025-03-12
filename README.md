@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Greetings! I am Akash, an AI Enthusiast 👨‍💻 exploring the transformative potential of Artificial Intelligence 🚀.</div>  
+### <div align="center">Greetings! I am Akash, an AI Enthusiast👨‍💻 exploring the transformative potential of Artificial Intelligence🚀.</div>  
   
 
 - 🤖 Developing [Doc-Bot-2.0](https://github.com/mybarefootstory/Doc-Bot-2.0) for smarter doctor-patient interactions.
