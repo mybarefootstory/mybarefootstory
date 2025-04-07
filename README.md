@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Greetings! I am Akash, an AI Enthusiast👨‍💻 exploring the transformative potential of Artificial Intelligence🚀.</div>  
+### <div align="center">Greetings! I am Akash, an AI Enthusiast👨‍💻exploring the transformative potential of Artificial Intelligence🚀.</div>  
   
 
 
